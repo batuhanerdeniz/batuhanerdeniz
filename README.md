@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I'm Batuhan Erdeniz 👋
 
-<!--
-**batuhanerdeniz/batuhanerdeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** and currently working at
 
-Here are some ideas to get you started:
+✨ Neos Software ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 You can always share some ideas with me I'm into SaaS
+- 🌱 I’m currently learning: Django
+- 📫 How to reach me: linkedin.com/batuhanerdeniz
+
+
+- ⚡ Fun fact: You can hook me with my love of Bicycles & Rick and Morty (C-137 > Prime Rick btw)
