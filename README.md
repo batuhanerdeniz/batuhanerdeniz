@@ -1,6 +1,8 @@
 ### Hi there I'm Batuhan Erdeniz 👋
 
-I'm a **Frontend Developer** and currently working at
+I'm a **Full Stack MERN Developer** and **Coding Instructor** 
+
+currently working at
 
 ✨ Neos Software ✨
 
