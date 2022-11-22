@@ -15,4 +15,4 @@ currently working at
 - ⚡ Fun fact: You can hook me with my love of Bicycles & Rick and Morty (C-137 > Prime Rick btw)
 
 
-[![Batu's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanerdeniz)](https://batuhanerdeniz.github.io)
+[![Batu's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanerdeniz&show_icons=true&theme=radical)](https://batuhanerdeniz.github.io)
