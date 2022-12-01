@@ -2,13 +2,8 @@
 
 I'm a **Full Stack MERN Developer** and **Coding Instructor** 
 
-currently working at
-
-✨ Neos Software ✨
-
-
 - 🔭 You can always share some ideas with me I'm into SaaS
-- 🌱 I’m currently learning: Django
+- 🌱 I’m currently learning: NextJS
 - 📫 How to reach me: linkedin.com/batuhanerdeniz
 
 
