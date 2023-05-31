@@ -1,6 +1,6 @@
 ### Hi there I'm Batuhan Erdeniz 👋
 
-I'm a **Full Stack MERN Developer** and **Coding Instructor** 
+I'm a **Front End Developer** and **Coding Instructor** 
 
 - 🔭 You can always share some ideas with me I'm into SaaS
 - 🌱 I’m currently learning: NextJS
