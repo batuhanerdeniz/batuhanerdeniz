@@ -9,5 +9,3 @@ I'm a **Front End Developer** and **Coding Instructor**
 
 - ⚡ Fun fact: You can hook me with my love of Bicycles & Rick and Morty (C-137 > Prime Rick btw)
 
-
-[![Batu's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanerdeniz&show_icons=true&theme=radical)](https://batuhanerdeniz.github.io)
